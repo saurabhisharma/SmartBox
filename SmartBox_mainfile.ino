@@ -1,3 +1,6 @@
+//many of the commented parts of the code make use of optional components such as buzzer, led lights, display, etc. If you 
+//have those components, you can uncomment them as per your requirement
+
 // Include required libraries
 #include <MFRC522.h>
 //#include <LiquidCrystal_I2C.h>
